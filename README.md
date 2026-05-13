@@ -8,6 +8,9 @@
 
 🚀Interested in business intelligence, analytics, and solving real-world problems through data-driven solutions.
 
+
+RESUME:- https://drive.google.com/file/d/1YMIfDaHScfjCQwAhkVMolNctaXurDQ1P/view?usp=drive_link
+
 ##
 
 
