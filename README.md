@@ -1,3 +1,19 @@
+ # 💫 About Me:
+ 
+👋Hi, I’m Tejas M S ,An Electronics and Communication Engineering graduate passionate about technology, analytics, and problem-solving. I enjoy working with data and building projects that create meaningful business insights.
+
+📊 Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and Tableau. 
+
+📈Passionate about data visualization, dashboard creation, and transforming raw data into actionable insights.
+
+🚀Interested in business intelligence, analytics, and solving real-world problems through data-driven solutions.
+
+##
+
+
+🔭I'm currently working on the DATA ANALYST Projects.
+
+💻I'm currently Learning SQL Query, Python, and it's Library required for the Visulisation , Visulisation Tools such as(Power Bi, Tableau) , Advance Excel
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/922918290916012103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejas-ms-data-analyst/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Decode-Data-22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejas22appu@gmail.com) 
